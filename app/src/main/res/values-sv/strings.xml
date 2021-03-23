@@ -362,7 +362,7 @@
     <string name="onboarding_button_ready">I\'m ready!</string>
 
     <string name="onboarding_welcome_title">Welcome to Monerujo!</string>
-    <string name="onboarding_welcome_information">This app allows you to create and use Monero wallets. You can store your sweet moneroj in them.</string>
+    <string name="onboarding_welcome_information">Med denna app kan du skapa och använda monero plånböcker. Du kan lagra dina moneroj i dessa.</string>
     <string name="onboarding_seed_title">Keep your seed safe</string>
     <string name="onboarding_seed_information">The seed grants full access to whoever has it. If you lose it, we cannot help you recover it and you lose your beloved moneroj.</string>
     <string name="onboarding_xmrto_title">Send Crypto</string>
